@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1614043515 "main.tex" "main.pdf" "main" 1614043517
+["pdflatex"] 1614044456 "main.tex" "main.pdf" "main" 1614044457
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -61,7 +61,7 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "Education.tex" 1614043496 4442 2c410943d7e41feb3699a4b7306c6680 ""
+  "Education.tex" 1614044451 4457 10db6cd3ca9d2c0d451d94961a5f5c93 ""
   "Figures/artichoke.png" 1614043496 400774 07900294dcf79cbfd59acc96d54a4bf7 ""
   "Figures/call.png" 1614043496 46854 c68d84c4689d3ace84ef4a7fc6763312 ""
   "Figures/email.png" 1614043496 80307 da96bc30f8d3749f38e0f0fbe4a7824a ""
@@ -72,13 +72,13 @@
   "Interest.tex" 1614043496 1606 924d2f6e055af1fe65e5bcf71de6dc61 ""
   "Publications.tex" 1614043496 1360 d7a0cc07fe4d91f7c16204f0d456238c ""
   "defines.tex" 1614043496 1197 33750dd8e88ba78455ca99192e075e19 ""
-  "main.aux" 1614043517 970 1437686e7cba08f011fdb45a439da595 ""
-  "main.out" 1614043517 97 0774e6c33e5b6e6829d4dc69d900d58d ""
-  "main.tex" 1614043496 4384 c7bb23cd03d999a01b1870b3e61794d2 ""
+  "main.aux" 1614044457 921 72e4549cabcf1cf7132a042677237c8c ""
+  "main.out" 1614044457 97 0774e6c33e5b6e6829d4dc69d900d58d ""
+  "main.tex" 1614044451 4638 076ec76262c564ee4bbcdc591a25c148 ""
   "packages.tex" 1614043496 385 ecc8aaa94cace6d762222e0cba4db6d5 ""
   "workEx.tex" 1614043496 1197 45152e4c28597950370f9c05ba97bc47 ""
   (generated)
-  "main.pdf"
   "main.log"
   "main.out"
+  "main.pdf"
   "main.aux"
